@@ -1,0 +1,11 @@
+{
+  "name": "executive_dash",
+  "description": "executive_dash",
+  "author": "<Put your name here>",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "dashing-js": "~0.1.5"
+  },
+  "engine": "node >= 0.10"
+}
